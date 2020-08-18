@@ -1,0 +1,22 @@
+version: "3.8"
+services:
+
+  payara:
+    image: payara/server-full
+    ports:
+    - "8080:8080"
+    - "4848:4848"
+    volumes:
+    - "/Users/janisg/maven/payaramysql/target:/opt/payara/deployments"
+
+  db:
+    image: mysql:5.7
+    ports:
+    - "3306:3306"
+    environment:
+    - MYSQL_ROOT_PASSWORD=RBACIT2020
+    - MYSQL_USER=rolodex
+    - MYSQL_PASSWORD=admin
+    - MYSQL_DATABASE=rolodex
+    volumes:
+    - "/Users/janisg/is202data:/var/lib/mysql"

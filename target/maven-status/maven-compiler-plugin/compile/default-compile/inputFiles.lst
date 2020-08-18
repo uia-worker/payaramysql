@@ -1,0 +1,10 @@
+/usr/src/app/src/main/java/is202/mavenrolodex/web/ContactPage.java
+/usr/src/app/src/main/java/is202/mavenrolodex/data/Contact.java
+/usr/src/app/src/main/java/is202/mavenrolodex/web/AdminSaveContact.java
+/usr/src/app/src/main/java/is202/mavenrolodex/data/Rolodex.java
+/usr/src/app/src/main/java/is202/mavenrolodex/web/AbstractRolodexServlet.java
+/usr/src/app/src/main/java/is202/mavenrolodex/web/ListPage.java
+/usr/src/app/src/main/java/is202/mavenrolodex/web/ShowContact.java
+/usr/src/app/src/main/java/is202/mavenrolodex/web/Page.java
+/usr/src/app/src/main/java/is202/mavenrolodex/web/AdminDeleteContact.java
+/usr/src/app/src/main/java/is202/mavenrolodex/web/ShowList.java

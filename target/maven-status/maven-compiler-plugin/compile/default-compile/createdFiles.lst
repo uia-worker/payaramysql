@@ -1,0 +1,10 @@
+is202/mavenrolodex/data/Contact.class
+is202/mavenrolodex/web/Page.class
+is202/mavenrolodex/data/Rolodex.class
+is202/mavenrolodex/web/AdminDeleteContact.class
+is202/mavenrolodex/web/ListPage.class
+is202/mavenrolodex/web/ShowList.class
+is202/mavenrolodex/web/ContactPage.class
+is202/mavenrolodex/web/ShowContact.class
+is202/mavenrolodex/web/AbstractRolodexServlet.class
+is202/mavenrolodex/web/AdminSaveContact.class
